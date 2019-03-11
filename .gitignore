@@ -107,3 +107,5 @@ venv.bak/
 logs-*/
 training_data/
 
+# datasets
+LJSpeech-1.1/
